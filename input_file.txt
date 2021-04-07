@@ -1,0 +1,12 @@
+rice
+toast
+croissant
+hamburger
+pizza
+sandwiches
+fish
+chicken
+pizza-toast
+cookie
+cake
+coffee
